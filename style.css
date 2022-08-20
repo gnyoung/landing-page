@@ -101,3 +101,23 @@ figcaption {
     margin-bottom: 65px;
 }
 
+.section-two {
+    background-color: #6ccd3896;
+    color: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 35px;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    font-size: 24px;
+    width: 600px;
+    margin: 60px;
+    gap:10px;
+    align-items: flex-end;
+}
+
+
