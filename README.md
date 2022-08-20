@@ -1,1 +1,1 @@
-# landing-page
+This project is a sample landing page created as part of the Odin Project. 
