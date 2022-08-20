@@ -31,11 +31,11 @@ ul {
 }
 
 a{
-    text-decoration: none;   
+    text-decoration: none;  
+    color: white; 
 }
 
 a:hover {
-    /*color: #01b8d8;*/
     text-decoration: underline;
 }
 
@@ -73,8 +73,31 @@ button:hover {
     padding: 40px;
 }
 
-img {
-    border: 2px solid black;
+.right-side > *{
+    border: 1px;
+    border-radius: 0%;
 }
 
+img {
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
+
+.title-section-one {
+    display: flex;
+    justify-content: center;
+    padding: 35px;
+}
+
+.images-section-one {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+figcaption {
+    text-align: center;
+    width: 200px;
+    margin-bottom: 65px;
+}
 
